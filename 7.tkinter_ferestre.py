@@ -21,14 +21,20 @@ def aduna_valoare(val):
     print("Counter", counter)
     counter_label.config(text=f"{counter}")
 
-minus_button = tk.Button(window,text="-", command= lambda x = -1:aduna_valoare(x))
+frame=tk.Frame(window)
+frame.pack()
+
+minus_button = tk.Button(frame,text="-", command= lambda x = -1:aduna_valoare(x))
 minus_button.grid(row=0,column=0)
 
-
-counter_label = tk.Label(window,text =f"{counter}")
+counter_label = tk.Label(frame,text =f"{counter}")
 counter_label.grid(row=0, column =1)
 
-plus_button = tk.Button(window,text="+", command= lambda x = 1:aduna_valoare(x))
+plus_button = tk.Button(frame,text="+", command= lambda x = 1:aduna_valoare(x))
 plus_button.grid(row=0,column=2)
+
+label = tk.Label(window, text="Label-ul meu din fereastra mea")
+label.pack()
+
 
 window.mainloop()
