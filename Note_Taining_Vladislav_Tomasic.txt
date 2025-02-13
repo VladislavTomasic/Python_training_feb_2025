@@ -46,4 +46,15 @@ Pyhton - limbaj de programare unterpretat;
 
 Django - web development pentru Python; Folosit in mai multe aplicatii;
 
+----------------------------------------------------------
+
+Day 3: 13 february 2025
+
+Cum putem crea aplicatii desktop;
+tinkter modul - light modul pentru a crea aplciatii desktop;
+
+XML - fisier cu tip de date markate; eXtendable Mark Up Langauge;
+HTML - hyper text mark up language;
+
+
 
