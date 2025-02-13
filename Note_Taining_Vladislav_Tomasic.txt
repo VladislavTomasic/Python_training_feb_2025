@@ -1,0 +1,49 @@
+Silviu Ojog trainer;
+
+Pauza de masa intre 12.30 si 13.30
+
+Cel mai folosit limbaj de programare;
+
+Versiile V2.sunt invchite; V3. sunt versiile noi folosite acum;
+
+Limbaj interpretat - se execute line by line; Limbaj compilat - e executat all at once;
+
+Acum luam exercitiile de Python institute sa vedem nivele;
+
+O variabila nu poate contine cifre in fata - de ex 1x;
+Anumite key-words au restrictii de folosire - de ex pass nu poate si folosit; au culoare e fuxia;
+
+De ex Python este key-sensitive;
+
+pass - se foloseste cand nu avem neaparat un code de executat dar trebuie pus ceva;
+
+None - inseamna lipsa unui valori; este valoare speciala;
+
+In python sunt 4 tipuri de data:
+- string
+- boolean
+- int
+- float
+
+
+Tuple: x= 7, 2   sau {7, 2}
+	se scrie cu spatiu;
+
+Tuple - not mutable lists;
+
+Set - este folosit pentru a scoate duplicate; apoi trebuie sa facem trecerea in list;
+
+Site util: pypi.org - poti gasi toate pachetele;
+
+PyToIpynb - tool to convert Python to Anaconda notepad;
+
+---------------------------------------------------------
+
+Day 2: 7 february 2025
+
+Python - orientat obiect;
+Pyhton - limbaj de programare unterpretat;
+
+Django - web development pentru Python; Folosit in mai multe aplicatii;
+
+

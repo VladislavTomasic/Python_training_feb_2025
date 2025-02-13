@@ -1,0 +1,2 @@
+pas='hello'
+print(pas)
