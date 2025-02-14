@@ -57,4 +57,14 @@ XML - fisier cu tip de date markate; eXtendable Mark Up Langauge;
 HTML - hyper text mark up language;
 
 
+----------------------------------------------------------
+
+Day 4: 14 february 2025
+
+Pyautoguide - modul de automatizare;
+Pentro Data Science - StreamLead - un modeul;
+Module de regresii pt machine learning - doua mari categorii - invatarea supervizata si nesupervizata;
+
+Supervizata - poti sa intervii in decizii;
+NEsupervizata - nu mai intervii;
 
